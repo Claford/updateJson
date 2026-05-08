@@ -1,0 +1,28 @@
+{
+  "update": {
+    "version_code": 2,
+    "version_name": "2.0",
+    "apk_url": "https://yourwebsite.com/app.apk",
+    "message": "Critical update required!",
+    "force_update": true
+  },
+
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "name": "Clefford",
+      "password": "1234",
+      "role": "ADMINISTRATOR ❤️",
+      "subscription_end": "2026-07-10"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "name": "Juan Dela Cruz",
+      "password": "pass1",
+      "role": "user",
+      "subscription_end": "2026-05-05"
+    }
+  ]
+}
